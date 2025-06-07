@@ -60,9 +60,7 @@ The system should:
 
 **1** Player attempts a move. System checks if the move is valid based on piece type and game rules. 
 
-**2** If valid, the move proceeds. 
-
-**3** If not, system notifies player and rejects move.
+**2** If valid, the move proceeds. If not, system notifies player and rejects move.
 
 **Title:** Check Game Over
 
